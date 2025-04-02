@@ -1,7 +1,7 @@
 
 
 import { GoogleGenerativeAI } from "@google/generative-ai";
-const genAI = new GoogleGenerativeAI("Gemini_API_Key");
+const genAI = new GoogleGenerativeAI("Your_Gemini_API_Key");
 
 
 export const generateAIRecipe = async (ingredients) => {
