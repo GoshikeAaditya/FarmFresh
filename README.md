@@ -7,14 +7,6 @@
 
 A modern, AI-powered e-commerce platform connecting local farmers directly with consumers, featuring intelligent meal planning, seasonal recommendations, and sustainable food practices.
 
-## 🚀 Live Demo
-
-[View Live Application](http://localhost:3000) *(Development Server)*
-
-## 📸 Screenshots
-
-*Add your application screenshots here*
-
 ## ✨ Features
 
 ### 🤖 AI-Powered Intelligence
